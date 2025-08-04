@@ -34,15 +34,15 @@ An Android ToDo application built using **Kotlin** and **Jetpack Compose**, feat
 
 ---
 
-## Signup Screen 
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/de7457f3-af64-4886-9754-ca358716ad7b" />
+## 🧾 Signup Screen 
+<img src="https://github.com/user-attachments/assets/de7457f3-af64-4886-9754-ca358716ad7b" width="300"/>
 
-## Login Screen
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/8c57ac4b-50a4-4c62-80a0-f08331cdd476" />
+## 🔐 Login Screen
+<img src="https://github.com/user-attachments/assets/8c57ac4b-50a4-4c62-80a0-f08331cdd476" width="300"/>
 
-## Todo UI
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/97b8f5a3-a1dc-4225-b344-01c53671d94a" />
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/83dd3679-7d42-4adc-8c49-7821d9d1e7b9" />
+## 📝 ToDo UI
+<img src="https://github.com/user-attachments/assets/97b8f5a3-a1dc-4225-b344-01c53671d94a" width="300"/>
+<img src="https://github.com/user-attachments/assets/83dd3679-7d42-4adc-8c49-7821d9d1e7b9" width="300"/>
 
 
 
