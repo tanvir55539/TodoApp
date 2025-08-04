@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39451155004",
+    "project_id": "testtodoapp-45802",
+    "storage_bucket": "testtodoapp-45802.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39451155004:android:6c24d17806d9b89d4f8139",
+        "android_client_info": {
+          "package_name": "com.example.testtodoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGfzoZSSuDeocKHOoDYJa9ZLYcmvBxQCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
